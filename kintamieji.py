@@ -20,3 +20,5 @@ print(b, "liekana dalijant is 2:", dalybos_liekana)
 
 user_input = input("Ivesk --> ")
 print(int(user_input) * 3)
+
+# Pridetas naujas irasas su PyCharm
